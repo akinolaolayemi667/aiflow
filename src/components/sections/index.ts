@@ -1,3 +1,5 @@
 export { Hero } from './Hero'
 export { HeroVisual } from './HeroVisual'
 export { Stats } from './Stats'
+export { Services } from './Services'
+export { Workflow } from './Workflow'
