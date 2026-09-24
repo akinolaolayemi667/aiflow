@@ -1,5 +1,13 @@
 import { Navbar } from '@/components/layout'
-import { Hero, Services, Stats, Workflow } from '@/components/sections'
+import {
+  CaseStudies,
+  Hero,
+  Industries,
+  Process,
+  Services,
+  Stats,
+  Workflow,
+} from '@/components/sections'
 
 export function HomePage() {
   return (
@@ -10,6 +18,9 @@ export function HomePage() {
         <Stats />
         <Services />
         <Workflow />
+        <Industries />
+        <CaseStudies />
+        <Process />
       </main>
     </div>
   )

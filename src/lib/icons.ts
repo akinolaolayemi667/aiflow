@@ -1,11 +1,8 @@
-/**
- * Central Lucide icon re-exports.
- * Import icons from here to keep icon usage consistent across the app.
- */
 export {
   Activity,
   ArrowRight,
   Bot,
+  BriefcaseBusiness,
   Building2,
   Calendar,
   CalendarCheck,
@@ -16,14 +13,20 @@ export {
   Cpu,
   FolderKanban,
   HeartHandshake,
+  HeartPulse,
+  Hotel,
   Inbox,
   LayoutDashboard,
   Menu,
   MessageCircle,
   MessageSquare,
+  Search,
   Send,
+  ShieldCheck,
+  Smile,
   Sparkles,
   Target,
+  TrendingUp,
   UserCheck,
   UserPlus,
   Users,
